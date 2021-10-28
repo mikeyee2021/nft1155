@@ -3,7 +3,7 @@
       "id":0,
       "description":"HULK",
       "external_url":"",
-      "image_url":"https://gateway.pinata.cloud/ipfs/QmTcHQRpe2uhr967Csqqq63mGyFQgzRhFyHZniNDLPK6fc",
+      "imageUrl":"ipfs://QmTcHQRpe2uhr967Csqqq63mGyFQgzRhFyHZniNDLPK6fc",
       "httpUrl":"https://gateway.pinata.cloud/ipfs/QmTcHQRpe2uhr967Csqqq63mGyFQgzRhFyHZniNDLPK6fc",
       "name":"HULK icon",
       "title":"HULK icon"
@@ -12,7 +12,7 @@
       "id":1,
       "description":"Scarlet",
       "external_url":"",
-      "image_url":"https://gateway.pinata.cloud/ipfs/QmNj7PMGsjaSFpWGE9EoWhusjfKusZE3HydFrZvTk1LaiJ",
+      "imageUrl":"ipfs://QmNj7PMGsjaSFpWGE9EoWhusjfKusZE3HydFrZvTk1LaiJ",
       "httpUrl":"https://gateway.pinata.cloud/ipfs/QmNj7PMGsjaSFpWGE9EoWhusjfKusZE3HydFrZvTk1LaiJ",
       "name":"Scarlet icon",
       "title":"Scarlet icon"
@@ -21,7 +21,7 @@
       "id":1,
       "description":"EagleEye",
       "external_url":"",
-      "image_url":"https://gateway.pinata.cloud/ipfs/QmeUqN2TgUpQowPRtcVCY3SGGqEtQjUm5wKQf1wzpBPAht",
+      "imageUrl":"ipfs://QmeUqN2TgUpQowPRtcVCY3SGGqEtQjUm5wKQf1wzpBPAht",
       "httpUrl":"https://gateway.pinata.cloud/ipfs/QmeUqN2TgUpQowPRtcVCY3SGGqEtQjUm5wKQf1wzpBPAht",
       "name":"EagleEye icon",
       "title":"EagleEye icon"
