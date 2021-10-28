@@ -1,6 +1,6 @@
 {
    "0":{
-      "id":0,
+      "id":"0",
       "type": "object",
       "description":"HULK",
       "external_url":"",
@@ -10,7 +10,7 @@
       "title":"HULK icon"
    },
    "1":{
-      "id":1,
+      "id":"1",
       "type": "object",
       "description":"Scarlet",
       "external_url":"",
@@ -20,7 +20,7 @@
       "title":"Scarlet icon"
    },
    "2":{
-      "id":1,
+      "id":"2",
       "type": "object",
       "description":"EagleEye",
       "external_url":"",
